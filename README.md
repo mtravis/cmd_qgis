@@ -1,5 +1,5 @@
 # Command Line QGIS
-Collection of links to all things command line related for QGIS.
+Collection of links to all things command line related in QGIS.
 
 ## Installing Options
 [Commandline Options for osgeo4w-setup.exe](https://trac.osgeo.org/osgeo4w/wiki/CommandLine)
