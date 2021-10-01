@@ -4,6 +4,9 @@ Collection of links to all things command line related in QGIS.
 ## Installing Options
 [Commandline Options for osgeo4w-setup.exe](https://trac.osgeo.org/osgeo4w/wiki/CommandLine)
 
+[Powershell script for installing latest LTR](https://gist.github.com/Guts/6303dc5eb941eb24be3e27609cd46985)
+
+
 [Using QGIS from Conda](https://gisunchained.wordpress.com/2019/05/29/using-qgis-from-conda/) by [Alexandre Neto](https://twitter.com/AlexNetoGeo)
 
 ## Start-up Options
